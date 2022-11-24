@@ -11,4 +11,5 @@ USO:
 Teniendo el wordle (o palabradeldia en español) abierto en otra ventana, ingrese una palabra cualquiera. Recomiendo "nacer" en español
 o "salet" in ingles.
 
-Una vez que la pagina devuelva los datos de las letras que ingresaste, ingresalos al programa y intenta con una de las palabras que te da.
+Una vez que la pagina devuelva los datos de las letras que ingresaste, ingresalos al programa y intenta con una de las palabras que te da. 
+Repetir hasta ganar.
